@@ -23,7 +23,7 @@ This project was created with the following technologies:
 
 
 ## Website
-### You can view the deployed application on Heroku at: 
+### You can view the deployed application on Heroku at: https://powerful-cove-66563.herokuapp.com/
 
 ### Screenshot of Deployed Application:
 ![Screenshot](./client/public/Rent-A-Party.png)
